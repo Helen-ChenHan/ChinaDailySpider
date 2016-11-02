@@ -1,1 +1,3 @@
 # ChinaDailySpider
+
+scrapy crawl cnd
